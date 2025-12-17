@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🌻 About me:
 
-<!--
-**vanemily/vanemily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning to capture and express what I experience, what I live, and what I feel - what affects me, what hurts and what motivates me.
 
-Here are some ideas to get you started:
+I explore, question, analyze, feel and create from where I am and with what I have. ❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 🌱 Current explorations
+
+- 💫 Exploring Elixir and distributed systems.
+- 💫 Experimenting wit visual language, composition and mixed media.
+- 💫 Embrace content creation.
+- 💫 Venturing into new forms of expressions through code.
+- 💫 Embracing the horizon

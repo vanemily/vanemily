@@ -2,7 +2,7 @@
 
 Learning to capture and express what I experience, what I live, and what I feel - what affects me, what hurts and what motivates me.
 
-I explore, question, analyze, feel and create from where I am and with what I have. ❤️
+I explore, question, analyze, feel and create from who I'm becoming, with what I have. ❤️
 
 
 
